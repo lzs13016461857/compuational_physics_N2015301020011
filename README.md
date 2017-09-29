@@ -8,3 +8,4 @@
 ### [Exercise 03.1](https://github.com/lzs13016461857/compuational_physics_N2015301020011/blob/master/xX2RCy.gif)
 ### [Exercise 03.2](https://github.com/lzs13016461857/compuational_physics_N2015301020011/blob/master/name.py)
 ### [Exercise 03.3](http://note.youdao.com/noteshare?id=ef059189696ed585064d41714ff8b1c0)
+### [Exercise 习题1code](https://github.com/lzs13016461857/compuational_physics_N2015301020011/blob/master/name.py)
