@@ -10,3 +10,4 @@
 ### [Exercise 03.3](http://note.youdao.com/noteshare?id=ef059189696ed585064d41714ff8b1c0)
 ### [Exercise 习题1code](https://github.com/lzs13016461857/compuational_physics_N2015301020011/blob/master/name.py)
 ### [Exercise 习题1运行结果](https://github.com/lzs13016461857/compuational_physics_N2015301020011/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-09-29%2016.23.25.png)
+### 【Exercise 04】（https://note.youdao.com/web/#/file/recent/markdown/WEBcc9bd5ac18b607876141c9c72df9d3e8/）
