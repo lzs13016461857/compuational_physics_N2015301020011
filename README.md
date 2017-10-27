@@ -12,3 +12,4 @@
 ### [Exercise 习题1运行结果](https://github.com/lzs13016461857/compuational_physics_N2015301020011/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-09-29%2016.23.25.png)
 ### [Exercise 04](http://note.youdao.com/noteshare?id=efe6942b440e3c948ecf376c952f9dd8)
 ### [Exercise 05](http://note.youdao.com/noteshare?id=8857620b9b38ecd462a2a4958cc822a9)
+### [Exercise 06](http://note.youdao.com/noteshare?id=4f36e48a1ddaf533fe4d6be7747d6617)
