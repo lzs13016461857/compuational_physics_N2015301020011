@@ -13,3 +13,4 @@
 ### [Exercise 04](http://note.youdao.com/noteshare?id=efe6942b440e3c948ecf376c952f9dd8)
 ### [Exercise 05](http://note.youdao.com/noteshare?id=8857620b9b38ecd462a2a4958cc822a9)
 ### [Exercise 06](http://note.youdao.com/noteshare?id=4f36e48a1ddaf533fe4d6be7747d6617)
+### [Exercise 07](http://note.youdao.com/noteshare?id=42b4530c39c87a96a2b0f7fac42b27d4)
