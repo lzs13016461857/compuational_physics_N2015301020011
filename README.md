@@ -15,3 +15,4 @@
 ### [Exercise 06](http://note.youdao.com/noteshare?id=4f36e48a1ddaf533fe4d6be7747d6617)
 ### [Exercise 07](http://note.youdao.com/noteshare?id=42b4530c39c87a96a2b0f7fac42b27d4)
 ### [mid-term exam](http://note.youdao.com/noteshare?id=705ef561bf8c5711765006f0016e6dc0)
+### [Exercise 08](http://note.youdao.com/noteshare?id=a088534f11b39c902eefc0f42ff56a1e)
